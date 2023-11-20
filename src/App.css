@@ -23,9 +23,13 @@
   padding: .8rem 3rem;
 }
 .maxWidth{
-  max-width: 67%;
+  max-width: 75%;
   margin: 0 auto;
 }
 .gap{
   gap: 1.5rem;
+}
+.img{
+  object-fit: cover;
+  height: 12rem;
 }

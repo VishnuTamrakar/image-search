@@ -22,7 +22,7 @@ class ImageList extends Component {
                   >
                     <img
                       src={result.urls.small}
-                      className="card-img-top"
+                      className="card-img-top img"
                       alt="..."
                     />
                   </div>
